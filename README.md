@@ -1,4 +1,4 @@
-AngularJS Tutorial 1
+AngularJS Tutorial : Buil Web App in 5 minutes
 ====================
 
 author: [Ahmad Faris](http://goo.gl/ib2USD)
